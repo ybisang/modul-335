@@ -40,7 +40,7 @@ Programmiere nun ganz normale deine Funktionen in den entsprechenden Components 
 ionic build
 ```
 
-Danach müssen wir die Platform zu dem Projekt hinzufügen. Es wird ein Order `android` oder `ios` erstellt:
+Danach müssen wir die Platform zu dem Projekt hinzufügen. Es wird ein Ordner `android` oder `ios` erstellt:
 
 ```bash
 # Android
